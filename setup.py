@@ -13,7 +13,7 @@ requirements = [
     "requests",
     "mutagen",
     "tqdm",
-    "pick==2.3.2",
+    "pick==2.6.0",
     "beautifulsoup4",
     "colorama",
 ]
